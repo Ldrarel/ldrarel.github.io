@@ -11,5 +11,11 @@ LG: 9- Arrowsmith
 3. Watching
 
 
+>Favorite Songs
+
+1. Industry Baby
+2. Old town Road
+3. MONTERO (Call Me By Your Name)
+
 
 
