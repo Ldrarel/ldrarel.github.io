@@ -11,6 +11,6 @@ LG: 9- Arrowsmith
 2. Playing Computer Games
 3. Watching
 
-![alt text]((http://clipart-library.com/clipart/ziX5raEXT.htm)
+
 
 
