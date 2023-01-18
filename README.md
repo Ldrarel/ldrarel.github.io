@@ -40,10 +40,6 @@ LG: 9- Arrowsmith
 >Sweet Child of Mine (First to Eleven)
 
 
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p3h5JR6c2BY"(https://www.youtube.com/watch?v=J61mtatKT1IM)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
