@@ -38,7 +38,7 @@ LG: 9- Arrowsmith
 
 
 >Sweet Child of Mine (First to Eleven)
-[Title: Song](https://www.youtube.com/watch?v=J61mtatKT1I)
+https://www.youtube.com/watch?v=J61mtatKT1I
 
 
 
